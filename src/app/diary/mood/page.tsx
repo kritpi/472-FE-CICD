@@ -55,7 +55,7 @@ export default function DiaryPage() {
             <EmotionButton
               imageSrc={InLove}
               altText="InLove"
-              particleSrc="https://i.postimg.cc/Gt0NqnXJ/inLove.png"
+              particleSrc="https://i.postimg.cc/Gt0NqnXJ/InLove.png"
               imageSize={120}
               date="21"
               buttonText="InLove"
