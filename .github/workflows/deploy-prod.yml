@@ -15,7 +15,7 @@ permissions:
 
 env:
   GO_VERSION: 1.23
-  APP_NAME: "472-be-cicd"
+  APP_NAME: "472-fe-cicd"
 
 jobs:
   build:
