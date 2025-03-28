@@ -27,4 +27,3 @@ jobs:
         #   IMAGE_NAME="${{ secrets.DOCKER_USERNAME }}/${{ env.APP_NAME }}:${IMAGE_TAG}"
         #   docker build -t 472-fe-cicd -f ./docker/dev.Dockerfile .
         run: docker build -t 472-fe-cicd -f ./docker/dev.Dockerfile .
-g
